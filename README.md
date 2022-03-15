@@ -6,3 +6,4 @@ develop 2
 Feature/1 commit 1 :)
 Feature/2 commit 1 :)
 branch hotfix
+Feature n
